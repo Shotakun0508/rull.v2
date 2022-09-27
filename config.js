@@ -4,9 +4,9 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 
 global.owner = 
  [
-  ['+62 858-2234-7348', 'Hyzer'],
-  ['+62 858-2234-7348'],
-  ['+62 858-2234-7348']
+  ['+62 813-3948-7460', 'Aditya-Kun'],
+  ['+62 813-3948-7460'],
+  ['+62 813-3948-7460']
 ]
 
 
@@ -16,7 +16,7 @@ global.owner =
   // [number, dia creator/owner?, dia developer?]
 // Put your number here
 global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.prems = [+6281339487460] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -50,14 +50,14 @@ global.APIKeys = { // APIKey Here
 */
 
 // Sticker WM
-global.packname = `\t\t「 ArullOfc 」\n\t\t「 IG: sahrulwara_____ 」\n\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n`
+global.packname = `\t\t「 Shota boTz 」\n\t\t「 IG: Aditya_hnspd 」\n\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n`
 global.author = ''
 global.thumb = readFileSync('./me.png')
 global.thumb2 = readFileSync('./me2.jpeg')
 global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
-global.me = 'ArullBotz'
+global.me = 'ShotaBotz'
 global.str = '-------------'
 global.l = '「'
 global.r = '」'
